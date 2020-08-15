@@ -1,3 +1,6 @@
+Fork from https://hub.docker.com/r/bakudankun/ricty-generator/
+--
+
 # Ricty Generator
 
 自動で[Rictyフォント](https://github.com/yascentur/Ricty)を生成してくれるすごいやつだよ
