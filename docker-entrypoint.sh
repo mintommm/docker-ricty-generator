@@ -109,6 +109,7 @@ if ls Ricty*.ttf >/dev/null 2>&1; then
 		elif [ "$zipball" ]; then
 			echo 'Now vomit .zip archive to stdout.' 1>&2
 			zip -qr - $outdir
+			zip -qr Ricty.zip $outdir
 		fi
 		echo 'Done. Check the redirected file.' 1>&2
 	fi
